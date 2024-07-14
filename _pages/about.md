@@ -1,4 +1,13 @@
-My research focuses on designing incentive mechanisms and developing computationally efficient techniques in collaborative logistics. Specifically, I apply cooperative game theory and propose solution approaches for solving optimization problems in designing marketplace for freight forwarders
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+My research focuses on designing incentive mechanisms and developing computationally efficient techniques in collaborative logistics. Specifically, I apply cooperative game theory and propose solution approaches for solving optimization problems in designing marketplace for freight forwarders.
 
 <!-- 
 ---
