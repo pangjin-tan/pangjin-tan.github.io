@@ -9,7 +9,12 @@ redirect_from:
 
 I am a third year PhD student in Computer Science at the Singapore Management University. My research focuses on designing incentive mechanisms and developing computationally efficient techniques in collaborative logistics. Specifically, I apply cooperative game theory and propose solution approaches for solving optimization problems in designing marketplace for freight forwarders. My advisor is [Assoc. Prof. Cheng Shih-Fen](http://www.mysmu.edu/faculty/sfcheng/).
 
-I am currently an Instructor with School of Computing and Information Systems at Singapore Management University since 2019. My previous industry experiences included stints at DHL Group and PSA International. 
+I am currently an Instructor with School of Computing and Information Systems at Singapore Management University. My previous industry experiences included stints at DHL Group and PSA International. 
+
+New!
+=====
+Jul 2024: I have been awarded the SMU Presidential Doctoral Fellowship for 2024-25.
+Apr 2024: Our paper "Enabling Sustainable Freight Forwarding Network via Collaborative Games" has been accepted for IJCAI-24
 
 <!-- 
 ---
