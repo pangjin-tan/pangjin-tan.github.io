@@ -11,10 +11,11 @@ I am a third year PhD student in Computer Science at the Singapore Management Un
 
 I am currently an Instructor with School of Computing and Information Systems at Singapore Management University. My previous industry experiences included stints at DHL Group and PSA International. 
 
-New!
+News!
 =====
-Jul 2024: I have been awarded the SMU Presidential Doctoral Fellowship for 2024-25.
-Apr 2024: Our paper "Enabling Sustainable Freight Forwarding Network via Collaborative Games" has been accepted for IJCAI-24
+Jul 2024: I have been awarded the SMU Presidential Doctoral Fellowship for Academic Year 2024-25
+
+Apr 2024: Our paper "Enabling Sustainable Freight Forwarding Network via Collaborative Games" has been accepted for IJCAI-24.
 
 <!-- 
 ---
