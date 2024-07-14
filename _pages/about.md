@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My research focuses on designing incentive mechanisms and developing computationally efficient techniques in collaborative logistics. Specifically, I apply cooperative game theory and propose solution approaches for solving optimization problems in designing marketplace for freight forwarders.
+I am a third year PhD student in Computer Science at the Singapore Management University. My research focuses on designing incentive mechanisms and developing computationally efficient techniques in collaborative logistics. Specifically, I apply cooperative game theory and propose solution approaches for solving optimization problems in designing marketplace for freight forwarders. My advisor is [Assoc. Prof. Cheng Shih-Fen](http://www.mysmu.edu/faculty/sfcheng/).
+
+I have been an Instructor with School of Computing and Information Systems at Singapore Management University since 2019. My previous industry experiences included stints at DHL Group and PSA International. 
 
 <!-- 
 ---
