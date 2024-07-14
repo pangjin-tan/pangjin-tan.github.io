@@ -19,4 +19,4 @@ Pang-Jin Tan, Shih-Fen Cheng and Richard Chen (Aug. 2024). **Enabling Sustainabl
 
 Pang-Jin Tan, Shih-Fen Cheng and Richard Chen (Dec. 2023). **Designing Large-Scale Intelligent Collaborative Platform for Freight Forwarders**. In: *2023 IEEE Symposium Series on Computational Intelligence (SSCI)*. December 5-8, 2023. Mexico City, Mexico.
 
-Hoong Chuin Lau, Lucas Agussurja, Shih-Fen Cheng, and Pang-Jin Tan (Aug. 2013). **A multi-objective memetic algorithm for vehicle resource allocation in sustainable transportation planning**. In: *Twenty-Third International Joint Conference on Artificial Intelligence (IJCAI-13)*, August 3-9, 2024, Beijing, China.
+Hoong Chuin Lau, Lucas Agussurja, Shih-Fen Cheng, and Pang-Jin Tan (Aug. 2013). **A Multi-Objective Memetic Algorithm for Vehicle Resource Allocation in Sustainable Transportation Planning**. In: *Twenty-Third International Joint Conference on Artificial Intelligence (IJCAI-13)*, August 3-9, 2024, Beijing, China.
